@@ -3,21 +3,24 @@
       { 
         "id": 1, 
         "name": "Politeknik Elektronika Negeri Surabaya", 
-        "url_picture": "https://via.placeholder.com/1000/92c952", 
+        "url_picture": "https://via.placeholder.com/1000/92c952",
+        "url_logo": "http://akhmadfajriyudiharto.it.student.pens.ac.id/keamanan_jaringan/images/pens1.png",
         "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
         "recruitment": "1. WNI\n2. Sehat Jasmani Rohani\n3. Usia 17 Tahun\n4. Aktif berorganisasi"
       },
       { 
         "id": 2, 
         "name": "Uwika", 
-        "url_picture": "https://via.placeholder.com/1000/771796", 
+        "url_picture": "https://via.placeholder.com/1000/771796",
+        "url_logo": "http://akhmadfajriyudiharto.it.student.pens.ac.id/keamanan_jaringan/images/pens1.png",
         "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
         "recruitment": "1. WNI\n2. Sehat Jasmani Rohani\n3. Usia 17 Tahun\n4. Aktif berorganisasi"
       },
       {
         "id": 3, 
         "name": "Uwika", 
-        "url_picture": "https://via.placeholder.com/1000/24f355", 
+        "url_picture": "https://via.placeholder.com/1000/24f355",
+        "url_logo": "http://akhmadfajriyudiharto.it.student.pens.ac.id/keamanan_jaringan/images/pens1.png",
         "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
         "recruitment": "1. WNI\n2. Sehat Jasmani Rohani\n3. Usia 17 Tahun\n4. Aktif berorganisasi"
       }
