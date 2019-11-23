@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+
+"detailImage": [
+  {
+    "id": 1,
+    "title": "Politeknik elektronika Negeri Surabaya",
+    "url": "https://via.placeholder.com/600/92c952",
+    "logo": "https://via.placeholder.com/600/92c952",
+    "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "id": 2
+    "title": "Uwika Scholarship",
+    "url": "https://via.placeholder.com/600/92c952",
+    "logo": "https://via.placeholder.com/600/92c952",
+    "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   }
+]
 }
