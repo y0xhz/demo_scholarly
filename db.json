@@ -1,21 +1,23 @@
 {
-
-"detailImage": [
-  {
-    "id": 1,
-    "title": "Politeknik elektronika Negeri Surabaya",
-    "url": "https://via.placeholder.com/600/92c952",
-    "logo": "https://via.placeholder.com/600/92c952",
-    "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
-  },
-  {
-    "id": 2
-    "title": "Uwika Scholarship",
-    "url": "https://via.placeholder.com/600/92c952",
-    "logo": "https://via.placeholder.com/600/92c952",
-    "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
-  }
-]
+  "posts": [
+    { 
+     "id": 1, 
+     "title": "Politeknik Elektronika Negeri Surabaya",
+     "url": "https://via.placeholder.com/600/92c952",
+     "logo": "https://via.placeholder.com/600/92c952",
+     "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
+    },
+    {
+      "id": 2, 
+      "title": "Post 2",
+      "url": "https://via.placeholder.com/600/92c952",
+      "logo": "https://via.placeholder.com/600/92c952",
+      "description": "Beasiswa Tahun 2019 Tanpa Ribet, Ambil yuk secepatnya ! Gratis lho.",
+    },
+    { 
+     "id": 3, 
+      "title": "Post3",
+      "Post 3" 
+    }
+  ],
 }
