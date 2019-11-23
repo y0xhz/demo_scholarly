@@ -1,2 +1,2 @@
 # demo_scholarly
-make a fake json with for flutter api
+make a fake json for flutter api
